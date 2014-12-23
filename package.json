@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/alexmingoia/gulp-jsx",
   "dependencies": {
-    "through2": "^0.6.3",
-    "jsx-transform": "^0.4.0"
+    "react-tools": "^0.12.2",
+    "through2": "^0.6.3"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
